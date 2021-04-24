@@ -1,7 +1,10 @@
 body {
     margin: 0;
     padding: 0;
-    background: #fdc9d1;
+    background: #ffc9d2;
+    font-size: 12px;
+    overflow: auto;
+}
     font-size: 12px;
     overflow: auto
 }
